@@ -1,4 +1,5 @@
 **Local Text-to-Speech Tool**
+
 This repository contains a simple Local Text-to-Speech (TTS) tool built with Python using tkinter for the graphical user interface and pyttsx3 for text-to-speech conversion. The tool allows users to upload PDF, Word, or plain text files and convert the text into speech with options for controlling the voice, speed, and speech commands such as pause, resume, and stop.
 
 **Features:**
