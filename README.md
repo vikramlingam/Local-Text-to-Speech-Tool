@@ -21,3 +21,5 @@ This repository contains a simple Local Text-to-Speech (TTS) tool built with Pyt
 
 **Contributing**
 Feel free to fork this repository, make your changes, and submit a pull request. Contributions are welcome to improve the functionality or add new features.
+
+Thank you
